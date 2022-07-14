@@ -1,6 +1,6 @@
 {
   "name": "mofron-comp-spinner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "spinner component for mofron",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simpart/mofron-comp-spinner.git"
+  },
+  "dependencies": {
+    "mofron-effect-rotate":""
   },
   "keywords": [
     "mofron",
